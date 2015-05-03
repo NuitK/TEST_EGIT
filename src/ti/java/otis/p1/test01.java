@@ -70,7 +70,6 @@ class varArgs{
 	}
 }
 
-
 class tf{
 	int i = 0;
 	tf(){
